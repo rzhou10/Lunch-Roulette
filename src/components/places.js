@@ -90,16 +90,34 @@ const listOfRestaurants = {
         "rating": 4.3
     },
     "16":{
+        "name": "Cluck U Chicken",
+        "type": "Chicken",
+        "price": "low",
+        "rating": 3.9
+    },
+    "17":{
         "name": "Augustino's",
         "type": "Italian",
         "price": "high",
         "rating": 4.4
     },
-    "17":{
+    "18":{
         "name": "Midtown Philly Steaks",
         "type": "Sandwiches",
         "price": "low",
         "rating": 4.3
+    },
+    "19":{
+        "name": "Court Street",
+        "type": "Bar",
+        "price": "medium",
+        "rating": 4.6
+    },
+    "20":{
+        "name": "Pho Nomenon",
+        "type": "Vietnamese",
+        "price": "low",
+        "rating": 3.9
     }
 };
 
