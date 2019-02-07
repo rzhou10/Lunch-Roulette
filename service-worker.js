@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lunchRoulette/precache-manifest.ffb8c07440518425881ac7fe6d6aacc9.js"
+  "/Lunch-Roulette/precache-manifest.72dc03c4ae28fd5fbaa28563b261ee0a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/lunchRoulette/index.html", {
+workbox.routing.registerNavigationRoute("/Lunch-Roulette/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
