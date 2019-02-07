@@ -1,7 +1,7 @@
 {
   "name": "lunch-roulette",
   "version": "0.1.0",
-  "homepage": "https://rzhou10.github.io/lunchRoulette",
+  "homepage": "https://rzhou10.github.io/Lunch-Roulette",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
