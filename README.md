@@ -1,6 +1,6 @@
 # Lunch Roulette
 
-Picks various places around the Hoboken Area to eat at. Take you pick!
+Picks various places around the Hoboken Area to eat at. Visit [here](https://rzhou10.github.io/Lunch-Roulette) and see what you get! 
 
 If you have any suggestions for places, let me know and I can add it to the list.
 

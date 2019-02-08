@@ -50,7 +50,7 @@ class Restaurant extends Component{
         return(
             <div>
                 <div className="suggestion">
-                    <p className="name">You should go to <span className="specific">{this.state.name}</span>!</p>
+                    <h1 className="name">You should go to <span className="specific">{this.state.name}</span>!</h1>
                     <p className="type" >{this.state.type}</p>
                     {this.colorPrice()}
                     {this.colorRating()}

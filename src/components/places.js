@@ -37,7 +37,7 @@ const listOfRestaurants = {
     },
     "7":{
         "name": "Vito's Deli",
-        "type": "Indian",
+        "type": "Italian",
         "price": "medium",
         "rating": 4.8
     },
